@@ -6,3 +6,5 @@ https://madisports.co.uk/products/nike-sportswear-air-max-premium-mens-s-t-shirt
 # social media account
 # tumblr
 https://www.tumblr.com/outfitera/832608367509897216/under-armour-clothing-modern-sportswear-and?source=share
+# nike sportswear
+https://madisports.co.uk/collections/nike
